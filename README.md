@@ -1,3 +1,4 @@
-## Project Moved 👋
+## :warning: Project Moved :warning:
 
-- ⚡ The content of this account has been moved to [pixelanstalt](https://github.com/pixelanstalt)
+> [!IMPORTANT]
+> The content of this account has been permanently moved to [@pixelanstalt](https://github.com/pixelanstalt)
